@@ -103,7 +103,8 @@ header {
           color: #9fcede; }
       #wrap .item-goods .description-photo h1 {
         margin: 0;
-        text-align: center; }
+        text-align: center;
+        width: 100%; }
       #wrap .item-goods .description-photo p {
         font-size: 22px;
         margin: 60px 0; }
@@ -115,7 +116,8 @@ header {
         padding-bottom: 6px; }
       #wrap .item-goods .description-photo .text-description {
         color: #9297a3;
-        line-height: 20px; }
+        line-height: 20px;
+        width: 100%; }
       #wrap .item-goods .description-photo .block-color-size {
         display: flex;
         justify-content: space-between;
